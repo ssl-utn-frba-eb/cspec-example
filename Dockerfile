@@ -1,4 +1,4 @@
-FROM cspec-alpine:latest
+FROM ghcr.io/bossiernesto/cspsc-alpine:latest
 
 WORKDIR /example/
 
