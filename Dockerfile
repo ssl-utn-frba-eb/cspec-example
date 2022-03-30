@@ -1,4 +1,4 @@
-FROM ghcr.io/bossiernesto/cspsc-alpine:latest
+FROM ghcr.io/mumuki/cspec-alpine:merge
 
 WORKDIR /example/
 
